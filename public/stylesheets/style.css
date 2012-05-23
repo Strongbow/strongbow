@@ -1,0 +1,34 @@
+body {
+	padding: 50px;
+	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+a {
+	color: #00B7FF;
+}
+#listoUsers{
+	float:left;
+	width:100px;
+	border-right:1px solid black;
+	height:300px;
+	padding:10px;
+	overflow:scroll-y;
+}
+#theConvo{
+	float:left;
+	height:250px;
+	overflow:scroll-y;
+	padding:10px;
+	width:75%;
+}
+.status{
+	font-size:10px;
+	padding-left:4px;
+}
+#updateStatus{
+	font-size:10px;
+	width:90px;
+}
+.time{
+	font-size:9px;
+	color:gray;
+}
